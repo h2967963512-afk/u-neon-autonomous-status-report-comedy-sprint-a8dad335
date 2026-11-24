@@ -9,6 +9,8 @@ Python 3.13, standard library only, no network.
 # cheerful over-obedience (doing tasks never asked for, and one
 # forbidden one) collides with the one task left open being the one
 # the human waved away with "never mind".
+# Revision note (parent pass): re-checked after the local run —
+# the 156-character line is unchanged; this note only records the check.
 import os
 
 TEXT = (
